@@ -1,6 +1,6 @@
 Repository contains quality README file with description, screenshot, and link to deployed application.
 
-# Website Accessibility
+# Horiseon Website Project
 
 ## Description
 
@@ -10,12 +10,12 @@ This project is about website optimization and accessibility, for the users to e
 
 <img src="./starter/assets/images/website-screenshot.jpg" alt="screenshot of the homepage of the Horiseon website"/>
 
-## Usage
-
-
 ## Links
 
+### Source code location
 https://github.com/chari00/challenge-1
+
+### Website URL
 https://chari00.github.io/challenge-1/
 
 ## License
