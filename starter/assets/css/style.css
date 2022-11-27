@@ -76,8 +76,8 @@ p {
 }
 
 .benefits {
-    margin-right: 20px;
-    padding: 20px;
+    margin-right: 50px;
+    padding: 65px;
     clear: both;
     float: right;
     width: 20%;
@@ -134,7 +134,8 @@ p {
     font-size: 36px;
 }
 
-
+/* disable footer */
+/* 
 .footer {
     padding: 30px;
     clear: both;
@@ -144,4 +145,4 @@ p {
 
 .footer h2 {
     font-size: 20px;
-}
+} */
