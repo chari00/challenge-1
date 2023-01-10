@@ -8,12 +8,12 @@ This project is about website optimization and accessibility, for the users to e
 
 <img src="./starter/assets/images/website-screenshot.jpg" alt="screenshot of the homepage of the Horiseon website"/>
 
-## 3. Built with:
+## Built with:
 
 - html
 - css
 
-## 4. What I learned
+## What I learned
 
 To see how you can add code snipets, see below:
 
